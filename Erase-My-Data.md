@@ -20,7 +20,3 @@ After the account deletion, certain data may be retained for a limited period fo
 For any further clarification or assistance regarding account deletion and data management, please contact our support team at support@ninjacatvpn.com 
 
 We value your trust in our application and are committed to safeguarding your personal data. Thank you for using NinjaCatVPN!
-
----
-
-Make sure to customize the text according to the specific details of your application. Once you have created this page, ensure there is a direct link to this section within your application and submit the URL of this page when publishing on Google Play Store.
