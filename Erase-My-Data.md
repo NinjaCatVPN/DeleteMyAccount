@@ -12,6 +12,7 @@ Welcome to NinjaCatVPN! We are committed to ensuring the privacy and security of
 We only store data of our subscribed users (premium accounts) in order to provide the best online experience.
 In case you want us to delete your data from our databases, we need you to communicate us **(with the email used during registration process)** the following informations to our support email : support@ninjacatvpn.net :
 
+****
 Subject: Data Deletion Request
 
 Full Name: [Your Full Name]
@@ -21,6 +22,8 @@ Email Address: [Your Email Address]
 Username : [Username]
 
 Our team will ensure to delete your data within 7 business days.
+
+****
 
 **Additional retention period:**
 
